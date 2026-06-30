@@ -1,0 +1,10 @@
+# Netlify deploy config
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# SPA fallback so React Router deep links (e.g. /land/zp-001) work on refresh
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
