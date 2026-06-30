@@ -59,9 +59,9 @@ export const site = {
     {
       name: 'AR. Mohamed Saleem',
       role: 'Architect',
-      phoneDisplay: '+91 90477 15786',
-      phoneDial: '919047715786',
-      whatsapp: '919047715786',
+      phoneDisplay: '+91 72993 78786',
+      phoneDial: '917299378786',
+      whatsapp: '917299378786',
     },
   ],
 
